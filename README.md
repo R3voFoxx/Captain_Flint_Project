@@ -9,4 +9,4 @@ Pseudocode was written. Main components of the code consist of 5 components.
 5. The search itself
 6. Final verdict
 
-once these main components are coded, more specifics such as clue calculations, danger advice, or levels to hull integrity/battery power (Ex battery <= 30, it sends out a warning instead of ending completely) can be implemented for efficiency. 
+Once these main components are coded, more specifics such as clue calculations, danger advice, or levels to hull integrity/battery power (Ex battery <= 30, it sends out a warning instead of ending completely) can be implemented for efficiency. 
